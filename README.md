@@ -7,7 +7,7 @@ The project is based on the following grammar.\
 The terms in "<>" are called non-terminal and can produce new things while terminal terms only have a few possibilities and then are set
 The terms <Wings> and <Stories> are a bit special since they can produce either a single <Wing> or <Story> but can also produce another <Wings> or <Stories> that will then repeat the cycle.
 
-![Alt text](ReadmeImages/BuildingDemo.PNG)
+![Alt text](ReadmeImages/BuildingGrammar.PNG)
 
 Setting up the demo
 =============
