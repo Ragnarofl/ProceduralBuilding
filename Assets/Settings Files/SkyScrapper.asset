@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 020b9f46d7f14b2449b01e83aa890ab1, type: 3}
+  m_Name: SkyScrapper
+  m_EditorClassIdentifier: 
+  buildingSize: {x: 5, y: 5}
+  minimumHeight: 6
+  maximumHeight: 10
+  doorCount: 1
+  windowChance: 1
+  wingsStrategy: {fileID: 11400000, guid: e889ad9536223ad40a7f360306821914, type: 2}
+  wingStrategy: {fileID: 0}
+  storiesStrategy: {fileID: 0}
+  storyStrategy: {fileID: 0}
+  wallStrategy: {fileID: 0}
+  roofStrategy: {fileID: 11400000, guid: b02a297f6fcd65743bb11a682d5b17df, type: 2}
