@@ -36,3 +36,9 @@ You can then go back to your settings file and place the strategy in the corresp
 Note: Since the DefaultStrategies are automatically selected if you do not specify one, their files are not created in thoses folders, everything is handled inside the code
 
 ![Alt text](ReadmeImages/StrategiesScriptable.PNG)
+
+Sources
+============
+This project was based on the following tutorial serie.\
+https://www.youtube.com/watch?v=t-VUpX-xVo4&list=PL5KbKbJ6Gf9-FZIwc1M7dbpJIslv-GWFY&index=1&ab_channel=RachelHwang
+Sadly it is unfinished but I've decided to continue it since the basis provided is rather well done and explained.
